@@ -227,3 +227,14 @@ teacher_model/
 
 #
 .DS_Store
+
+# model
+*.jinja
+
+*.pt
+*.pth
+*.bin
+
+*.json
+
+*.safetensors
